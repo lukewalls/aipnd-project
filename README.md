@@ -1,2 +1,0 @@
-# aipnd-project
-Image Classifier
